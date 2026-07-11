@@ -67,7 +67,7 @@ Result:
 * deploy a custom HTML page — all automatically when EC2 first boots.
 
 ### 2. EC2 Instance Dashboard
-![image alt]
+![image alt](https://github.com/fk218/apache-ec2-project/blob/1ae6cf91d049721457682466abc1963a9fe9fb78/ec2-instance-dashboard.png)
 
 This shows the AWS EC2 instance used to host the Apache web server.
 
