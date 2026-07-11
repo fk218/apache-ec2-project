@@ -77,7 +77,7 @@ This shows the AWS EC2 instance used to host the Apache web server.
 * Confirms successful instance launch on AWS
 
 ### 3. Security Group Configuration
-![image alt](https://github.com/abdullahalfarabi150-a11y/apache-ec2-project/blob/e960261385394650989f73954a80ce71691c0496/Security-group-config.png)
+![image alt](https://github.com/fk218/apache-ec2-project/blob/42686f52835300ebf7d47d4c0b848250c90b6763/Security-group-config.png)
 
 This defines network access rules for the EC2 instance.
 
