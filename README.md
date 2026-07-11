@@ -59,7 +59,7 @@ Result:
 ## 📸 Screenshots
 
 ### 1. User Data Script
-![image alt](https://github.com/abdullahalfarabi150-a11y/apache-ec2-project/blob/6396d33e3722a77f5da9aa3137aa63a9ed9bf038/user-data-script.png)
+![image alt](https://github.com/fk218/apache-ec2-project/blob/21fdb11ea12ae01ed3f4e8de0be8ab59208d0b98/user-script-data2.png)
 
 * This script automates the entire Apache web server setup on launch.
 * Instead of manually SSHing into the instance, I used a User Data bash
